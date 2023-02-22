@@ -1,0 +1,19 @@
+/* Stylesheet - Chris Tomaskovic */
+body{
+    background-color: grey;
+}
+
+img {
+    border-width: 0px;
+    width: 30%;
+    height: 30%;
+}
+
+img#arrow, img#arrowImg{
+    width: 147px;
+    height: 82px;
+}
+
+.centered{
+    text-align: center;
+}
